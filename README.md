@@ -1,5 +1,6 @@
 ### Hi, I am Dolores 👋🏾 👩🏾‍💻
 
+![Dolores Crazover README banner Github](https://github.com/DoloresCode/DoloresCode/assets/117631390/c8b45a51-a4a0-47db-93ee-d3a3e487c556)
 I'm a passionate software developer with a love for crafting clean, efficient code and a knack for solving complex problems. My journey in the world of technology has led me to explore various programming languages, frameworks, and tools.
 
 But what truly drives me is the endless journey of learning. I'm a lifelong learner, constantly exploring new technologies and approaches to stay at the forefront of the ever-evolving tech landscape. 
