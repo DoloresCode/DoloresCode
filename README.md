@@ -46,11 +46,12 @@ Let's learn and create together! 🚀
 
 ## 📊 GitHub Stats: 📈 ##
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=doloresCode
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoloresCode&theme=highcontrast)](https://github.com/DoloresCode)
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=doloresCode
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DoloresCode&theme=highcontrast)](https://github.com/DoloresCode)
 
-https://github-readme-streak-stats.herokuapp.com/?user=doloresCode
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DoloresCode&theme=highcontrast)](https://github.com/DoloresCode)
+
 
 
 
