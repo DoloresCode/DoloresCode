@@ -1,16 +1,10 @@
 ### Hi, I am Dolores 👋🏾 👩🏾‍💻
 
-I'm a passionate software developer with a love for crafting clean, efficient code and a knack for solving complex problems. My journey in the world of technology has led me to explore various programming languages, frameworks, and tools. Here are a few things you might find in my toolkit:
-
-- **Languages:** Python, JavaScript
-- **Frontend:** HTML, CSS, React
-- **Backend:** Node.js, Express
-- **Databases:** MongoDB, PostgreSQL
-- **Tools:** Visual Studio Code, Git, GitHub 
+I'm a passionate software developer with a love for crafting clean, efficient code and a knack for solving complex problems. My journey in the world of technology has led me to explore various programming languages, frameworks, and tools.
 
 But what truly drives me is the endless journey of learning. I'm a lifelong learner, constantly exploring new technologies and approaches to stay at the forefront of the ever-evolving tech landscape. 
 
-I'm also passionate about using technology to work on meaningful projects that empower people and make a positive impact. Whether it's creating innovative solutions or contributing to open-source initiatives, I believe in the potential of tech to change lives for the better.
+I'm also passionate about using technology to work on meaningful projects that empower people and work as a team to make a positive impact. Whether it's creating innovative solutions or contributing to open-source initiatives, I believe in the potential of tech to change lives for the better.
 
 Feel free to explore my repositories and portfolio to see some of my recent work. If you have any questions, want to collaborate, or just want to chat about tech and its limitless possibilities, don't hesitate to reach out!
 
@@ -18,9 +12,7 @@ Feel free to explore my repositories and portfolio to see some of my recent work
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue)](https://dolorescrazover.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dolores-crazover/)
 
-
 Let's learn and create together! 🚀
-
 
 ## 🖥️ Tech Stack: ##
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,10 +39,9 @@ Let's learn and create together! 🚀
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-Intermediate-orange?style=for-the-badge)
-![Trello](https://img.shields.io/badge/Trello-Intermediate-skyblue?style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Expert-blueviolet?style=for-the-badge)
-
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
+![Trello](https://img.shields.io/badge/Trello-skyblue?style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blueviolet?style=for-the-badge)
 
 
 
