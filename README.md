@@ -45,13 +45,11 @@ Let's learn and create together! 🚀
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blueviolet?style=for-the-badge)
 
 ##📊 GitHub Stats: 📈##
+https://github-readme-stats.vercel.app/api/top-langs/?username=DoloresCode&theme=highcontrast
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={DoloresCode}&theme={highcontrast}
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DoloresCode&theme=highcontrast
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={DoloresCode}&theme={highcontrast}
-
-
-https://github-readme-streak-stats.herokuapp.com/?user={DoloresCode}&theme={highcontrast}
+https://github-readme-streak-stats.herokuapp.com/?user=DoloresCode&theme=highcontrast
 
 
 
