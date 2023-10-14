@@ -52,7 +52,9 @@ Let's learn and create together! 🚀
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DoloresCode&theme=highcontrast)](https://github.com/DoloresCode)
 
-[![](https://visitcount.itsvg.in/api?id=DoloresCode&label=Profile%20Views&color=4&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=DoloresCode&label=Profile%20Views&color=4&icon=0&pretty=false" />
+</a>
 
 
 
